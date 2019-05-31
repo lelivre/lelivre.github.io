@@ -22,3 +22,4 @@ is_contact: true
 ## Social
 
 1. [CSDN](https://blog.csdn.net/weixin_44340732)
+2. [Google Scholar](https://Scholar.google.com)
