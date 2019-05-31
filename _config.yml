@@ -1,4 +1,4 @@
-title: 刘庆威
+title: Researcher
 url: "https://lelivre.github.io"
 #baseurl: "/researcher"
 
@@ -16,6 +16,8 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "Home"
+   link: "home"
  - name: "About"
    link: "aboutme"
  - name: "Resume"
