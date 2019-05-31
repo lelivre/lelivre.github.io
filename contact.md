@@ -5,7 +5,7 @@ is_contact: true
 
 * Email: [liuqingwei@mail.ecust.edu.cn](mailto:liuqingwei@mail.ecust.edu.cn)
 
-* Phone: [13917297174]
+## * Phone: [+86-]
 
 ---
 
@@ -21,6 +21,6 @@ is_contact: true
 
 ## Social
 
-#1. [Facebook](#)
-#2. [Twitter](#)
-#3. [Google+](#)
+1. [CSDN](https://blog.csdn.net/weixin_44340732)
+2. [Twitter](#)
+3. [Google+](#)
