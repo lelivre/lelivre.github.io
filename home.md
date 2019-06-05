@@ -44,11 +44,3 @@ Here is a blockquote
 * Foo Bar: Head of Department, Placeholder Names, Lorem
 * John Doe: Associate Professor, Department of Computer Science, Ipsum
 
-## Pioneer Scholar (Keep Udating...)
-
-[Brian Swenson](http://scholar.google.com) 
-
-## Inspiring Open Courses
-
-* Game Theory MIT6\_254S10
-

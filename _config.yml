@@ -24,5 +24,7 @@ nav:
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "Frontier"
+   link: "frontier"
 
 #remote_theme: ankitsultana/researcher@gem
