@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am Sherlock Holmes. I love elementary induction and watson.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/lelivre/)
 
 ## Research Interest
 
