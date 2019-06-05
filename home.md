@@ -35,12 +35,7 @@ Here is a horizontal rule
 
 ---
 
-Here is a blockquote
+## Quote
 
-> "Solving a problem simply means representing it so as to make the solution transparent."  -Herbert Simon, _Sciences of the Artificial_
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+"Solving a problem simply means representing it so as to make the solution transparent."  -Herbert Simon, _Sciences of the Artificial_
 
