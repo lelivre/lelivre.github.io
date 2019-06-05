@@ -1,5 +1,3 @@
-is_frontier: true
-
 
 ## Scholar
 [Brian Swenson](scholar.google.com) [Asu Ozdaglar](scholar.google.com)
