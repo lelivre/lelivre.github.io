@@ -37,7 +37,7 @@ Here is a horizontal rule
 
 Here is a blockquote
 
-> To a great mind, nothing is little
+> "Solving a problem simply means representing it so as to make the solution transparent."  -Herbert Simon, _Sciences of the Artificial_
 
 ## References
 
