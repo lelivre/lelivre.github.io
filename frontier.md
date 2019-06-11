@@ -36,7 +36,7 @@
 ## Websites
 
 * [MIT OpenCourseWare](https://ocw.mit.edu)
-* [Harvard School of Engineering and Applied Sciences](www.seas.harvard.edu)
+* [Harvard School of Engineering and Applied Sciences](https://seas.harvard.edu)
 
 
 
