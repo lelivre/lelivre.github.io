@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="alain.jpg">
 
 Hi! I am Sherlock Holmes. I love elementary induction and watson.
 

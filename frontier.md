@@ -1,5 +1,5 @@
 
-## Prominent Scholar
+## Scholars
 [Brian Swenson](scholar.google.com) [Asu Ozdaglar](scholar.google.com)
 
 ## Courses
@@ -25,6 +25,8 @@
 * Linear Algebra[MIT 18.06 Albert Strang](www.youtube.com) 
 * Multi-Variable Calculus [MIT18.02\_2007Fall](youtube.com)
 * Single-Variable Calculus [MIT18.02](www.youtube.com)
+
+## Projects
 
 ## Books
 
