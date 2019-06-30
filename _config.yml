@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/lelivre"
-footer_text: "For a great mind, nothing is little"
+footer_text: "Human greatness does not lie in wealth or power, but in character and goodness. --Anne Frank"
 
 sass:
     style: compressed
@@ -18,12 +18,12 @@ sass:
 nav:
  - name: "Home"
    link: "home"
- - name: "About"
-   link: "aboutme"
+# - name: "About"
+#   link: "aboutme"
  - name: "Resume"
    link: "resume.pdf"
- - name: "Frontier"
-   link: "frontier"
+ - name: "Links"
+   link: "links"
  - name: "Contact"
    link: "contact"
 

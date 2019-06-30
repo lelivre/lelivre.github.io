@@ -1,10 +1,16 @@
+## Conference Calendar
+* [IEEE Conference Calendar](https://www.ieee.org/conferences/index.html)
+* [CCF列表](https://www.ccf.org.cn/)
+
+## Journals
+* [IEEE Communication Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-magazine)
 
 ## Prominent Scholars
 [Brian Swenson](scholar.google.com) 
 [Asu Ozdaglar](scholar.google.com)
 [Yang Liu](https://xueyuhanlang.github.io)
 
-## Courses
+## Classic Courses
 * Winter School on Gravity and Light(about Topolgy) [2015](www.youtube.com)
 * Differential Geometry [Wildbeger](www.youtube.com)
 * Measure Theory [Claudio Landim](www.youtube.com)
@@ -42,5 +48,7 @@
 * [MIT OpenCourseWare](https://ocw.mit.edu)
 * [Harvard School of Engineering and Applied Sciences](https://seas.harvard.edu)
 
-
+## File Format
+* [Latex](https://www.latex-project.org/)
+* [Markdown](https://www.runoob.com/markdown/md-tutorial.html)
 
