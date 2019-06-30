@@ -1,6 +1,8 @@
 
-## Scholars
-[Brian Swenson](scholar.google.com) [Asu Ozdaglar](scholar.google.com)
+## Prominent Scholars
+[Brian Swenson](scholar.google.com) 
+[Asu Ozdaglar](scholar.google.com)
+[Yang Liu](https://xueyuhanlang.github.io)
 
 ## Courses
 * Winter School on Gravity and Light(about Topolgy) [2015](www.youtube.com)
