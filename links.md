@@ -9,6 +9,7 @@
 [Brian Swenson](scholar.google.com) 
 [Asu Ozdaglar](scholar.google.com)
 [Yang Liu](https://xueyuhanlang.github.io)
+[Mérouane Debbah](http://www.laneas.com/merouane-debbah)
 
 ## Classic Courses
 * Winter School on Gravity and Light(about Topolgy) [2015](www.youtube.com)
