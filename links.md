@@ -4,10 +4,12 @@
 
 ## Journals
 * [IEEE Communication Magazine](https://www.comsoc.org/publications/magazines/ieee-communications-magazine)
+* IEEE Wireless Communications
 * [International Journal of Parallel, Emergent and Distributed Systems](http://www.tandfonline.com)
 * [Wireless Networks](http://link.springer.com/journal/11276)
-* [IEEE Sensors Journal]
-* [IEEE Transactions on Wireless Communications]
+* IEEE Sensors Journal
+* IEEE Transactions on Wireless Communications
+* 
 
 ## Prominent Scholars
 [Brian Swenson](scholar.google.com) 
