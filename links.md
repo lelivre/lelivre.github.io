@@ -10,7 +10,8 @@
 * IEEE Sensors Journal
 * IEEE Transactions on Wireless Communications
 * Journal of Parallel and Distributed Computing
-*
+* International Journal of Parallel, Emergent and Distributed Systems
+* 
 
 ## Prominent Scholars
 [Brian Swenson](scholar.google.com) 
