@@ -9,7 +9,8 @@
 * [Wireless Networks](http://link.springer.com/journal/11276)
 * IEEE Sensors Journal
 * IEEE Transactions on Wireless Communications
-* 
+* Journal of Parallel and Distributed Computing
+*
 
 ## Prominent Scholars
 [Brian Swenson](scholar.google.com) 
